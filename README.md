@@ -1,2 +1,2 @@
 # recipes
-recipes project from odin project
+This is the first project i am working on for odin project. In here I assume I will need to demonstrate how to comit to git, how to make a basic list template, how to make lists, create links, add images.
